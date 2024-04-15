@@ -9,6 +9,12 @@
 - Form Validation
 - Firebase setup
 - Deploying App to production
+- Create SignUp User Account
+- Implement Sign In User API
+- Authenication
+- Created redux store Rwith user slice
+- Implimented Signout
+- Fetch Movies from TMDB Api's
 
 # Features
 
